@@ -39,6 +39,6 @@ Laurina LaStella
 
 ## Other queries recommended for deeper understanding.
 
-1. Precipitation statistics would help determine how many days of business may be lost to rain in each season, despite the ambient temperature.
+### 1. Precipitation statistics would help determine how many days of business may be lost to rain in each season, despite the ambient temperature.
 
-2. Elevation of each station may impact readings. Since surfing is done at sea level, further analysis may benefit from eliminating readings from stations at higher elevations.
+### 2. Elevation of each station may impact readings. Since surfing is done at sea level, further analysis may benefit from eliminating readings from stations at higher elevations.
